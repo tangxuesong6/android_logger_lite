@@ -1,0 +1,18 @@
+[package]
+name = "android_logger_lite"
+version = "0.0.1"
+edition = "2021"
+authors = [
+    "tangxuesong <tangxuesong666@gmail.com>",
+]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = """
+A lightweight android log library
+"""
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "android_logger_lite"
