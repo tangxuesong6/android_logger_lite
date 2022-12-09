@@ -1,6 +1,6 @@
 [package]
 name = "android_logger_lite"
-version = "0.0.3"
+version = "0.0.4"
 edition = "2021"
 authors = [
     "tangxuesong <tangxuesong666@gmail.com>",
@@ -10,6 +10,8 @@ readme = "README.md"
 description = """
 A lightweight android log library
 """
+
+repository = "https://github.com/tangxuesong6/android_logger_lite"
 documentation = "https://docs.rs/android_logger_lite"
 keywords = [ "android", "log"]
 
